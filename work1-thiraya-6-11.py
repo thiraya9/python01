@@ -1,0 +1,11 @@
+print("Hello M.6/11")
+print("My name is Thiraya Ranglek")
+print("No.36")
+print("age :",17,"years")
+print("My birthday is 18 july 2547")
+print("I study at Chonrasadornumrung")
+print("I live in chonburi")
+print("I'm from Thailand")
+print("My hobby is watching anime and read manga book")
+print("My favorite anime is Conan")
+#ฐิรญา ร่างเล็ก
